@@ -2,7 +2,12 @@
 """
 git init
 """
+
 """
 git add 
 git add abc.txt
+"""
+
+"""
+this is my frist commit
 """
