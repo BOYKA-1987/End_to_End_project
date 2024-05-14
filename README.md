@@ -19,3 +19,11 @@ hi every one
 """
 bash your_file_name.sh
 """
+
+"""
+# another way you can mention -e . in your requirement file and you can run
+"""
+
+"""
+pip install -r requirements.txt
+"""
