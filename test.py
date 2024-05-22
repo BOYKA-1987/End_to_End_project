@@ -1,4 +1,4 @@
-import os
+"""import os
 path="notebooks/research.ipynb"
 
 dir,file=os.path.split(path)
@@ -6,7 +6,7 @@ dir,file=os.path.split(path)
 os.makedirs(dir,exist_ok=True)
 
 with open (path,"w") as f:
-    pass
+    pass """
 
 
 
@@ -28,3 +28,22 @@ echo [$(date)]: "installing the dev requirements"
 pip install -r requirements.txt
 
 echo [$(date)]: "END"  """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
